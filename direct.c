@@ -3,7 +3,11 @@
 #include<string.h>
 #include<windows.h>
 #define EMPTY 0
+<<<<<<< HEAD
 //master브렌치로 예상
+=======
+//테스트 1 브렌치
+>>>>>>> test1
 struct director{//포인터 포현이 안되서 그냥 배열로 함 수정 필요
 	int serial_number;
 	char director[20];//감독 이름
